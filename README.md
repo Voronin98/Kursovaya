@@ -18,3 +18,11 @@
 Цель моделирования: Демонстрация визуализации модели Солнечной Системы
 
 Тема курсового проекта: Разработка функциональных моделей подсистемы визуализации Солнечной Системы
+
+![none](https://github.com/Voronin98/Kursovaya/blob/master/model1.png)
+![none](https://github.com/Voronin98/Kursovaya/blob/master/model2.png)
+![none](https://github.com/Voronin98/Kursovaya/blob/master/model3.png)
+![none](https://github.com/Voronin98/Kursovaya/blob/master/model4.png)
+![none](https://github.com/Voronin98/Kursovaya/blob/master/model5.png)
+![none](https://github.com/Voronin98/Kursovaya/blob/master/model6.png)
+
