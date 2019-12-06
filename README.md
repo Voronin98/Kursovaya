@@ -17,11 +17,15 @@
 
 Точка зрения: Разработчик программы  
 
-Цель моделирования: демонстрация работы визуализации модели Солнечной Системы
+Цель моделирования: Процесс визуализации модели Солнечной Системы
 
 Тема курсового проекта: Разработка функциональных моделей подсистемы визуализации Солнечной Системы
 
-## Лабораторная работа 5
-## Лабораторная работа 6
-## Лабораторная работа 7
+![none](https://github.com/Voronin98/Kursovaya/blob/master/model1.png)
+![none](https://github.com/Voronin98/Kursovaya/blob/master/model2.png)
+![none](https://github.com/Voronin98/Kursovaya/blob/master/model3.png)
+![none](https://github.com/Voronin98/Kursovaya/blob/master/model4.png)
+![none](https://github.com/Voronin98/Kursovaya/blob/master/model5.png)
+![none](https://github.com/Voronin98/Kursovaya/blob/master/model6.png)
+![none](https://github.com/Voronin98/Kursovaya/blob/master/model7.png)
 
