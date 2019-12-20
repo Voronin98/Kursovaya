@@ -59,3 +59,13 @@ ER-диграмма для всех программных модулей:
 [Ссылка на код](https://github.com/Voronin98/Kursovaya/blob/master/Laba6%2C4.txt)
 
 ## Лабораторная работа 7
+Расчёт трудозатрат на выполнение проекта:
+
+Определение количества функциональных точек:
+![none](https://github.com/Voronin98/Kursovaya/blob/master/%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%80%D0%B0%D1%81%D1%81%D1%87%D1%91%D1%82.PNG)
+
+Трудозатраты по FPA IFPUG:
+![none](https://github.com/Voronin98/Kursovaya/blob/master/FPA.PNG)
+
+Трудозатраты по COCOMO II:
+![none](https://github.com/Voronin98/Kursovaya/blob/master/COCOMO%20II.PNG)
