@@ -1,0 +1,39 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+
+class Module as "Программный модуль"
+
+
+class Mod1 as "Блок расчёта параметров траектории объектов"
+class Mod2 as "Блок расчёта скоростей объектов"
+class Mod3 as "Блок расчёта параметров орбиты объекта"
+class Mod4 as "Блок расчёта модулей радиуса и скорости объектов"
+class Mod5 as "Блок расчёта углов объектов между радиусом и скоростью"
+class Mod6 as "Блок расчёта углов сдвига объектов"
+class Mod7 as "Блок преобразования координат в плоскости орбиты"
+class Mod8 as "Блок определения положения планет на орбите в новый момент времени"
+class Mod9 as "Блок преобразования в декартову систему координат"
+class Mod10 as "Блок изминения значений координат в соответствии с масштабом модели"
+class Mod11 as "Блок расстановки модели объектов по координатам"
+
+
+Module <|-- Mod1
+Module <|-- Mod2
+Module <|-- Mod3
+Module <|-- Mod4
+Module <|-- Mod5
+Module <|-- Mod6
+Module <|-- Mod7
+Module <|-- Mod8
+Module <|-- Mod9
+Module <|-- Mod10
+Module <|-- Mod11
+
+hide members
+hide circle
+hide methods
+@enduml

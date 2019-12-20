@@ -1,0 +1,32 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Модуль"
+
+class BDs as "База данных"
+class Module as "Программный модуль"
+
+
+class BD1 as "БД радиусов и скоростей объектов"
+class BD2 as "БД значений углов"
+class BD3 as "БД полярных координат"
+class BD4 as "БД полярных координат в новый момент времени"
+class BD5 as "БД координат"
+ 
+Entity <|-- BDs 
+Entity <|-- Module 
+ 
+
+BDs <|-- BD1
+BDs <|-- BD2
+BDs <|-- BD3
+BDs <|-- BD4
+BDs <|-- BD5
+
+hide members
+hide circle
+hide methods
+@enduml
