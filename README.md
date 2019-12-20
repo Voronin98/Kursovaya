@@ -24,8 +24,18 @@
 ![none](https://github.com/Voronin98/Kursovaya/blob/master/model1.png)
 ![none](https://github.com/Voronin98/Kursovaya/blob/master/model2.png)
 ![none](https://github.com/Voronin98/Kursovaya/blob/master/model3.png)
+
+## Лабораторная работа 5
+Определение основных средств автоматизации
+
++ Определение конфигурации технических средств - ПК.
++ Определение конфигурации программных средств - Встроенные.
++ Определение допустимых видов хранилищ и их размещения - Память устройства.
+
 ![none](https://github.com/Voronin98/Kursovaya/blob/master/model4.png)
 ![none](https://github.com/Voronin98/Kursovaya/blob/master/model5.png)
 ![none](https://github.com/Voronin98/Kursovaya/blob/master/model6.png)
 ![none](https://github.com/Voronin98/Kursovaya/blob/master/model7.png)
 
+## Лабораторная работа 6
+## Лабораторная работа 7
