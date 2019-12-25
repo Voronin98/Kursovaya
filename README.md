@@ -15,13 +15,13 @@
 
 + A3 Визуализация модели Солнечной Системы
 
-Точка зрения: Разработчик программы  
+Точка зрения: Руководитель образовательной организации  
 
-Цель моделирования: Процесс визуализации модели Солнечной Системы
+Цель моделирования: Демонстрация визуализации модели Солнечной Системы
 
-Тема курсового проекта: Разработка функциональных моделей подсистемы визуализации Солнечной Системы
+Тема курсового проекта: Разработкасистемы визуализации модели Солнечной Системы
 
-![none](https://github.com/Voronin98/Kursovaya/blob/master/model1.png)
+![none](https://github.com/Voronin98/Kursovaya/blob/master/model1new.png)
 ![none](https://github.com/Voronin98/Kursovaya/blob/master/model2new.png)
 ![none](https://github.com/Voronin98/Kursovaya/blob/master/model3new.png)
 
