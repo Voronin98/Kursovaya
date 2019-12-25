@@ -21,9 +21,6 @@
 
 Тема курсового проекта: Разработка системы визуализации модели Солнечной Системы
 
-![none](https://github.com/Voronin98/Kursovaya/blob/master/model1new.png)
-![none](https://github.com/Voronin98/Kursovaya/blob/master/model2new.png)
-![none](https://github.com/Voronin98/Kursovaya/blob/master/model3new.png)
 
 ## Лабораторная работа 5
 Определение основных средств автоматизации
@@ -32,14 +29,14 @@
 + Определение конфигурации программных средств - Встроенные.
 + Определение допустимых видов хранилищ и их размещения - Память устройства.
 
-Декомпозиция блока А12 "Рассчитать начальные параметры"
-![none](https://github.com/Voronin98/Kursovaya/blob/master/model4new.png)
-Декомпозиция блока А14 "Перейти в полярную систему координат"
-![none](https://github.com/Voronin98/Kursovaya/blob/master/model5new.png)
-Декомпозиция блока А2 "Расчёт по математической модели"
-![none](https://github.com/Voronin98/Kursovaya/blob/master/model6new.png)
-Декомпозиция блока А3 "Визуализация модели Солнечной Системы"
-![none](https://github.com/Voronin98/Kursovaya/blob/master/model7new.png)
+Декомпозиция блока А ""
+
+Декомпозиция блока А ""
+
+Декомпозиция блока А ""
+
+Декомпозиция блока А ""
+
 
 ## Лабораторная работа 6
 ER-диграмма для всех потоков:
