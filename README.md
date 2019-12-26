@@ -23,39 +23,39 @@
 
 Блок А0 "Образовательная деятельность с использованием системы визуализации Солнечной Системы"
 
-![none]()
+![none](https://github.com/Voronin98/Kursovaya/blob/master/01_A0.png)
 
 Декомпозиция блока А0 "Образовательная деятельность с использованием системы визуализации Солнечной Системы"
 
-![none]()
+![none](https://github.com/Voronin98/Kursovaya/blob/master/02_A0.png)
 
 Декомпозиция блока А1 "Планирование занятия"
 
-![none]()
+![none](https://github.com/Voronin98/Kursovaya/blob/master/03_A1.png)
 
 Декомпозиция блока А2 "Подготовка класса"
 
-![none]()
+![none](https://github.com/Voronin98/Kursovaya/blob/master/04_A2.png)
 
 Декомпозиция блока А3 "Проведение занятия"
 
-![none]()
+![none](https://github.com/Voronin98/Kursovaya/blob/master/05_A3.png)
 
 Декомпозиция блока А31 "Обучить с помощью системы визуализации Солнечной Системы"
 
-![none]()
+![none](https://github.com/Voronin98/Kursovaya/blob/master/06_A31.png)
 
 Декомпозиция блока А311 "Визуализация модели Солнечной Системы"
 
-![none]()
+![none](https://github.com/Voronin98/Kursovaya/blob/master/07_A311.png)
 
 Декомпозиция блока А3111 "Подготовка к вычислениям"
 
-![none]()
+![none](https://github.com/Voronin98/Kursovaya/blob/master/08_A3111.png)
 
 Декомпозиция блока А4 ""
 
-![none]()
+![none](https://github.com/Voronin98/Kursovaya/blob/master/13_A4.png)
 
 ## Лабораторная работа 5
 Определение основных средств автоматизации
@@ -66,45 +66,42 @@
 
 Декомпозиция блока А31112 "Рассчитать начальные параметры"
 
-![none]()
+![none](https://github.com/Voronin98/Kursovaya/blob/master/09_A31112.png)
 
 Декомпозиция блока А31114 "Перейти в полярную систему координат"
 
-![none]()
+![none](https://github.com/Voronin98/Kursovaya/blob/master/10_A31114.png)
 
 Декомпозиция блока А3112 "Рассчитать по математической модели"
 
-![none]()
+![none](https://github.com/Voronin98/Kursovaya/blob/master/11_A3112.png)
 
 Декомпозиция блока А3113 "Визуализация модели Солнечной Системы"
 
-![none]()
+![none](https://github.com/Voronin98/Kursovaya/blob/master/12_A3113.png)
 
 ## Лабораторная работа 6
 ER-диграмма для всех потоков:
-![none](https://github.com/Voronin98/Kursovaya/blob/master/Laba6%2C1.png)
-[Ссылка на код](https://github.com/Voronin98/Kursovaya/blob/master/Laba6%2C1.txt)
+![none]()
+[Ссылка на код]()
 
 ER-диграмма для всех ролей:
-![none](https://github.com/Voronin98/Kursovaya/blob/master/Laba6%2C2.png)
-[Ссылка на код](https://github.com/Voronin98/Kursovaya/blob/master/Laba6%2C2.txt)
+![none]()
+[Ссылка на код]()
 
 ER-диграмма для всех модулей:
-![none](https://github.com/Voronin98/Kursovaya/blob/master/Laba6%2C3.png)
-[Ссылка на код](https://github.com/Voronin98/Kursovaya/blob/master/Laba6%2C3.txt)
+![none]()
+[Ссылка на код]()
 
 ER-диграмма для всех программных модулей:
-![none](https://github.com/Voronin98/Kursovaya/blob/master/Laba6%2C4.png)
-[Ссылка на код](https://github.com/Voronin98/Kursovaya/blob/master/Laba6%2C4.txt)
+![none]()
+[Ссылка на код]()
 
 ## Лабораторная работа 7
 Расчёт трудозатрат на выполнение проекта:
 
 Определение количества функциональных точек:
-![none](https://github.com/Voronin98/Kursovaya/blob/master/%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%80%D0%B0%D1%81%D1%81%D1%87%D1%91%D1%82.PNG)
 
 Трудозатраты по FPA IFPUG:
-![none](https://github.com/Voronin98/Kursovaya/blob/master/FPA.PNG)
 
 Трудозатраты по COCOMO II:
-![none](https://github.com/Voronin98/Kursovaya/blob/master/COCOMO%20II.PNG)
