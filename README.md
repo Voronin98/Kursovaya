@@ -27,7 +27,7 @@
 
 Декомпозиция блока А0 "Образовательная деятельность с использованием системы визуализации Солнечной Системы"
 
-![none](https://github.com/Voronin98/Kursovaya/blob/master/02_A0.png)
+![none](https://github.com/Voronin98/Kursovaya/blob/master/02_A0New.png)
 
 Декомпозиция блока А1 "Планирование занятия"
 
