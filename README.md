@@ -29,7 +29,7 @@
 
 Декомпозиция блока А0 "Образовательная деятельность с использованием системы визуализации Солнечной Системы"
 
-![none](https://github.com/Voronin98/Kursovaya/blob/master/02_A0New.png)
+![none](https://github.com/Voronin98/Kursovaya/blob/master/02_A0Newnew.png)
 
 Декомпозиция блока А1 "Планирование занятия"
 
@@ -37,19 +37,19 @@
 
 Декомпозиция блока А2 "Подготовка класса"
 
-![none](https://github.com/Voronin98/Kursovaya/blob/master/04_A2.png)
+![none](https://github.com/Voronin98/Kursovaya/blob/master/04_A2New.png)
 
 Декомпозиция блока А3 "Проведение занятия"
 
-![none](https://github.com/Voronin98/Kursovaya/blob/master/05_A3.png)
+![none](https://github.com/Voronin98/Kursovaya/blob/master/05_A3New.png)
 
 Декомпозиция блока А31 "Обучить с помощью системы визуализации Солнечной Системы"
 
-![none](https://github.com/Voronin98/Kursovaya/blob/master/06_A31.png)
+![none](https://github.com/Voronin98/Kursovaya/blob/master/06_A31New.png)
 
 Декомпозиция блока А311 "Визуализация модели Солнечной Системы"
 
-![none](https://github.com/Voronin98/Kursovaya/blob/master/07_A311.png)
+![none](https://github.com/Voronin98/Kursovaya/blob/master/07_A311New.png)
 
 Декомпозиция блока А3111 "Подготовка к вычислениям"
 
