@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="126px" preserveAspectRatio="none" style="width:4341px;height:126px;" version="1.1" viewBox="0 0 4341 126" width="4341px" zoomAndPan="magnify"><defs><filter height="300%" id="f18fsuw8qf3mjw" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[2b7409a316d9d2e410653e6983353aed]
+class Module--><rect fill="#FFFFFF" filter="url(#f18fsuw8qf3mjw)" height="23.9688" id="Module" style="stroke: #000000; stroke-width: 1.5;" width="147" x="1855.5" y="8"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="141" x="1858.5" y="24.1387">Программный модуль</text><!--MD5=[98d5775bee4977cd6a270a77dc23a2e4]
+class Mod1--><rect fill="#FFFFFF" filter="url(#f18fsuw8qf3mjw)" height="23.9688" id="Mod1" style="stroke: #000000; stroke-width: 1.5;" width="332" x="6" y="92"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="326" x="9" y="108.1387">Блок расчёта параметров траектории объектов</text><!--MD5=[5b061112621b3cef80d812c173acaf03]
+class Mod2--><rect fill="#FFFFFF" filter="url(#f18fsuw8qf3mjw)" height="23.9688" id="Mod2" style="stroke: #000000; stroke-width: 1.5;" width="236" x="373" y="92"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="230" x="376" y="108.1387">Блок расчёта скоростей объектов</text><!--MD5=[1db65a16eb0ab5aaa903f67269d87fd8]
+class Mod3--><rect fill="#FFFFFF" filter="url(#f18fsuw8qf3mjw)" height="23.9688" id="Mod3" style="stroke: #000000; stroke-width: 1.5;" width="294" x="644" y="92"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="288" x="647" y="108.1387">Блок расчёта параметров орбиты объекта</text><!--MD5=[ecaadd309caa62423536c83e45a54200]
+class Mod4--><rect fill="#FFFFFF" filter="url(#f18fsuw8qf3mjw)" height="23.9688" id="Mod4" style="stroke: #000000; stroke-width: 1.5;" width="357" x="973.5" y="92"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="351" x="976.5" y="108.1387">Блок расчёта модулей радиуса и скорости объектов</text><!--MD5=[7be12e9e4dec87c833c0aef0dce1c3d6]
+class Mod5--><rect fill="#FFFFFF" filter="url(#f18fsuw8qf3mjw)" height="23.9688" id="Mod5" style="stroke: #000000; stroke-width: 1.5;" width="402" x="1366" y="92"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="396" x="1369" y="108.1387">Блок расчёта углов объектов между радиусом и скоростью</text><!--MD5=[d3fbfe02ffa6e2c07b7101153d503962]
+class Mod6--><rect fill="#FFFFFF" filter="url(#f18fsuw8qf3mjw)" height="23.9688" id="Mod6" style="stroke: #000000; stroke-width: 1.5;" width="251" x="1803.5" y="92"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="245" x="1806.5" y="108.1387">Блок расчёта углов сдвига объектов</text><!--MD5=[3ae14fc539f707998146134e411d395e]
+class Mod7--><rect fill="#FFFFFF" filter="url(#f18fsuw8qf3mjw)" height="23.9688" id="Mod7" style="stroke: #000000; stroke-width: 1.5;" width="364" x="2090" y="92"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="358" x="2093" y="108.1387">Блок преобразования координат в плоскости орбиты</text><!--MD5=[be45c578fd56819df771dd00b9097637]
+class Mod8--><rect fill="#FFFFFF" filter="url(#f18fsuw8qf3mjw)" height="23.9688" id="Mod8" style="stroke: #000000; stroke-width: 1.5;" width="499" x="2489.5" y="92"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="493" x="2492.5" y="108.1387">Блок определения положения планет на орбите в новый момент времени</text><!--MD5=[0c91370b895ba272b63002e7adfe1d2e]
+class Mod9--><rect fill="#FFFFFF" filter="url(#f18fsuw8qf3mjw)" height="23.9688" id="Mod9" style="stroke: #000000; stroke-width: 1.5;" width="369" x="3023.5" y="92"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="363" x="3026.5" y="108.1387">Блок преобразования в декартову систему координат</text><!--MD5=[3d5e460b7882778267b99ec1ed2e99ea]
+class Mod10--><rect fill="#FFFFFF" filter="url(#f18fsuw8qf3mjw)" height="23.9688" id="Mod10" style="stroke: #000000; stroke-width: 1.5;" width="509" x="3427.5" y="92"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="503" x="3430.5" y="108.1387">Блок изминения значений координат в соответствии с масштабом модели</text><!--MD5=[b339f213ed172f07035e604b27c9f850]
+class Mod11--><rect fill="#FFFFFF" filter="url(#f18fsuw8qf3mjw)" height="23.9688" id="Mod11" style="stroke: #000000; stroke-width: 1.5;" width="359" x="3971.5" y="92"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="353" x="3974.5" y="108.1387">Блок расстановки модели объектов по координатам</text><!--MD5=[42f46f1696f3842f0fe2195a3afa2570]
+reverse link Module to Mod1--><path d="M1834.98,24.7497 C1590.8,34.5954 916.38,62.4682 355,92 C349.438,92.2926 343.781,92.5966 338.068,92.9091 " fill="none" id="Module&lt;-Mod1" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="1834.96,17.7451,1855.23,23.9352,1835.52,31.7338,1834.96,17.7451" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[dd869414a9d78948787754089880d954]
+reverse link Module to Mod2--><path d="M1835.5,25.231 C1621.39,35.1095 1079.03,61.206 626,92 C620.487,92.3748 614.848,92.7734 609.153,93.1884 " fill="none" id="Module&lt;-Mod2" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="1835.19,18.2384,1855.49,24.3123,1835.83,32.2236,1835.19,18.2384" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[64fa4c12dd8bf69c69a3af6c9b92cf46]
+reverse link Module to Mod3--><path d="M1835.21,27.758 C1637.32,42.0176 1175.78,75.2744 938.153,92.3967 " fill="none" id="Module&lt;-Mod3" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="1834.76,20.7727,1855.21,26.3171,1835.76,34.7365,1834.76,20.7727" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[af25c95399144e24066f4cc67a535a5c]
+reverse link Module to Mod4--><path d="M1835.09,30.9104 C1689.09,46.3189 1408.65,75.9145 1256.45,91.9765 " fill="none" id="Module&lt;-Mod4" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="1834.58,23.9261,1855.2,28.7883,1836.05,37.8487,1834.58,23.9261" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[8466d94d1d1a4600b75d74cab2f47802]
+reverse link Module to Mod5--><path d="M1860.67,36.4777 C1789.17,52.6741 1678.72,77.6933 1615.62,91.9857 " fill="none" id="Module&lt;-Mod5" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="1859.13,29.6504,1880.18,32.0589,1862.22,43.3045,1859.13,29.6504" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[f7290389f54f3adce0efd9bb75d2b372]
+reverse link Module to Mod6--><path d="M1929,52.2001 C1929,66.1357 1929,81.6757 1929,91.8544 " fill="none" id="Module&lt;-Mod6" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="1922,52.0589,1929,32.0589,1936,52.0589,1922,52.0589" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[e56559af77f977e2cce96a7183e92508]
+reverse link Module to Mod7--><path d="M1995.05,36.7909 C2062.83,52.9951 2166.53,77.7851 2225.93,91.9857 " fill="none" id="Module&lt;-Mod7" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="1993.08,43.5174,1975.26,32.0589,1996.34,29.9011,1993.08,43.5174" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[11e6a3f5c4aa568fa715b6be75929376]
+reverse link Module to Mod8--><path d="M2022.99,30.5152 C2174.04,45.8062 2470.02,75.7699 2630.06,91.9715 " fill="none" id="Module&lt;-Mod8" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="2021.86,37.4368,2002.67,28.4579,2023.27,23.508,2021.86,37.4368" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[dfe1f31735b95bc9e151164034e32f82]
+reverse link Module to Mod9--><path d="M2022.82,27.0151 C2236.6,40.7208 2762.48,74.4365 3036.18,91.9844 " fill="none" id="Module&lt;-Mod9" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="2022.34,33.9985,2002.82,25.7331,2023.23,20.0272,2022.34,33.9985" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[b0db4b0c09b5905377b4bfe1b71bd089]
+reverse link Module to Mod10--><path d="M2022.8,25.3876 C2289.13,37.8457 3055.9,73.7129 3446.8,91.9981 " fill="none" id="Module&lt;-Mod10" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="2022.3,32.372,2002.65,24.445,2022.95,18.3873,2022.3,32.372" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[a73f70c5b686519821f7dcbfeaa8c997]
+reverse link Module to Mod11--><path d="M2022.66,23.5928 C2310.81,31.7186 3209.67,58.1742 3954,92 C3959.73,92.2605 3965.56,92.534 3971.44,92.8176 " fill="none" id="Module&lt;-Mod11" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="2022.37,30.5878,2002.58,23.0285,2022.77,16.5933,2022.37,30.5878" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[981d9df0227458049843afba5acce567]
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+
+class Module as "Программный модуль"
+
+
+class Mod1 as "Блок расчёта параметров траектории объектов"
+class Mod2 as "Блок расчёта скоростей объектов"
+class Mod3 as "Блок расчёта параметров орбиты объекта"
+class Mod4 as "Блок расчёта модулей радиуса и скорости объектов"
+class Mod5 as "Блок расчёта углов объектов между радиусом и скоростью"
+class Mod6 as "Блок расчёта углов сдвига объектов"
+class Mod7 as "Блок преобразования координат в плоскости орбиты"
+class Mod8 as "Блок определения положения планет на орбите в новый момент времени"
+class Mod9 as "Блок преобразования в декартову систему координат"
+class Mod10 as "Блок изминения значений координат в соответствии с масштабом модели"
+class Mod11 as "Блок расстановки модели объектов по координатам"
+
+
+Module <|- - Mod1
+Module <|- - Mod2
+Module <|- - Mod3
+Module <|- - Mod4
+Module <|- - Mod5
+Module <|- - Mod6
+Module <|- - Mod7
+Module <|- - Mod8
+Module <|- - Mod9
+Module <|- - Mod10
+Module <|- - Mod11
+
+hide members
+hide circle
+hide methods
+@enduml
+
+PlantUML version 1.2019.13(Tue Dec 10 17:18:29 UTC 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.7.0_25-b15
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
